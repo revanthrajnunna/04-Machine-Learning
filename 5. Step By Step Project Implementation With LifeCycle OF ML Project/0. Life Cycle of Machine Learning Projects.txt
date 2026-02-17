@@ -1,0 +1,8 @@
+Life Cycle of a Machine Learning Project
+
+1. Load the Dataset
+2. Divide the Dataset into Independent and Dependent features
+3. Train - Test Spilt the Dataset
+4. Standardize the Training Independent Dataset
+5. Apply the Machine Learning Model
+6. Check the Performance using Mean Squared Error, Mean Absolute Error and R^2 Score
